@@ -2,7 +2,6 @@
 A mini project for Computer Graphics and Visualization Laboratory [18CSL67]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Adarsh232001/Atom-Simulation)<br/>
-Collaborated with [@NithinKumar9](https://github.com/NithinKumar9) <br/>
 Language used:- C <br/>
 Tools used:- MinGw <br/>
 IDE used:- [CodeBlocks](https://www.codeblocks.org/downloads/)<br/>
